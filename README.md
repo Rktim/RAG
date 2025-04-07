@@ -149,11 +149,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 Special thanks to the developers and contributors of [Ollama](https://ollama.ai/), [FAISS](https://github.com/facebookresearch/faiss), [LangChain](https://python.langchain.com/), and [HuggingFace Transformers](https://huggingface.co/transformers) for providing the foundational tools that made this project possible.
-
----
-
-*For any issues or inquiries, please open an issue in the repository or contact the maintainer.*
-
----
-
-**Note**: This README is designed to be comprehensive and interactive, guiding users from basic to advanced implementations of RAG systems. Adjust paths and filenames as per your actual project structure. 
