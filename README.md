@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) Pipeline ![image](https://github.com/user-attachments/assets/4c4e6a59-9449-43c4-9e0d-58be4647624d)
+# Retrieval-Augmented Generation (RAG) Pipeline 📄
 
 
 
