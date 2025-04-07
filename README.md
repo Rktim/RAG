@@ -2,6 +2,9 @@
 
 Welcome to the RAG Pipeline repository! This project demonstrates the implementation of Retrieval-Augmented Generation (RAG) systems, starting from basic setups using Ollama, NumPy, and JSON, to more advanced configurations employing LangChain, Ollama, HuggingFace, and FAISS for enhanced performance.
 
+![image](https://github.com/user-attachments/assets/04b344ac-7c1c-432c-b383-6b5c24c9aa7b)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
